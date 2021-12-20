@@ -10,8 +10,8 @@ body {
   padding:          10px 10px 10px 10px;
 }
 a {
-  text-decoration:  none; 
-  font-weight:      600; 
+  text-decoration:  none;
+  font-weight:      600;
 }
 a:hover {
   text-decoration:  underline;
@@ -40,8 +40,8 @@ td, th {
   font-size:        75%;
   font-style:       italic;
 }
-.confirmentry {
-  font-weight:      600; 
+.confirm_entry {
+  font-weight:      600;
 }
 
 /*** Tables ***/
